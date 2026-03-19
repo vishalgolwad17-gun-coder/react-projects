@@ -1,3 +1,3 @@
 # react-projects
 
-simple card makigng ui react project 
+simple card making ui react project 
